@@ -1,0 +1,12 @@
+ this program is currently designed to use local storage
+
+- Calendar.js
+    - add a tasks array to the calendar form to allow tasks to be added for the day that events are scheduled
+    -add ability to create or update an events 
+        -check if event date exists
+        -store tasks and characters required by date only, 
+         but list the time when displaying data for that date
+            (for example on Sept 7, list all characters and the character
+             itself should list the call time)
+        -tasks should also be stored by date. 
+            -note time or not? <---decide
